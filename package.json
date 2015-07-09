@@ -1,9 +1,9 @@
 {
-  "name": "doctrine",
+  "name": "doctrine2",
   "description": "JSDoc parser",
   "homepage": "http://github.com/Constellation/doctrine.html",
   "main": "lib/doctrine.js",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Constellation/doctrine.git"
+    "url": "http://github.com/ecomfe/doctrine2.git"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
