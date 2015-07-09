@@ -1,9 +1,9 @@
 {
-  "name": "doctrine",
+  "name": "doctrine2",
   "description": "JSDoc parser",
   "homepage": "https://github.com/eslint/doctrine",
   "main": "lib/doctrine.js",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -27,11 +27,16 @@
       "name": "Yusuke Suzuki",
       "email": "utatane.tea@gmail.com",
       "web": "https://github.com/Constellation"
+    },
+    {
+      "name": "Chris",
+      "email": "wfsr@foxmail.com",
+      "web": "https://github.com/chriswong"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/eslint/doctrine.git"
+    "url": "http://github.com/ecomfe/doctrine2.git"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
